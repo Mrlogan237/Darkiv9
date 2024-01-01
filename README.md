@@ -5,7 +5,7 @@
 
 ## 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Linkiddrak/Darkiv9">
+<a href="https://dashboard.heroku.com/new-app">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
    
