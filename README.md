@@ -1,5 +1,5 @@
 ## ` Pair with WhatsApp`
-<h2 align="left">  <a href="https://xeon-pair-code.onrender.com/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://xeon-pair-code.onrender.com/"><img src="https://render.com/" />
 </a>
 </h2>
 
