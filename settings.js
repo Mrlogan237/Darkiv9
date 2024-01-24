@@ -5,7 +5,7 @@ const fs = require("fs")
 global.autoReading = false //auto recording (true to on, false to off)
 global.autoTyping = false //auto tying (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
+global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
 
@@ -22,27 +22,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "22870035900" //ur owner number2
-global.ownername = "❄️ Raizen Darki Linkid" //ur owner name
+global.ownernomer = "237670507356" //ur owner number2
+global.ownername = "𝗟𝗼𝗴𝗮𝗻 𝗗𝗶𝗲𝘂𝗻𝗲𝗱𝗼𝗿𝘁" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: Linkiddrak" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Darki Bot MD V9"
-global.ownernumber = '22870035900'
-global.ownername = '❄️Raizen'
+global.botname = "𝗟𝗼𝗴𝗮𝗻 𝗥𝗲𝘀𝘂𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻"
+global.ownernumber = '237670507356'
+global.ownername = '𝗟𝗼𝗴𝗮𝗻 𝗗𝗶𝗲𝘂𝗻𝗲𝗱𝗼𝗿𝘁'
 global.ownerNumber = ["22870035900@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "false"
-global.themeemoji = '❄️'
+global.themeemoji = '🇨🇲'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/Linkiddrak/Darkiv9' //script link
-global.packname = "Sticker By"
-global.author = "DarkiLinkid"
-global.creator = "22870035900@s.whatsapp.net"
-global.prefa = ['!','.','#','&']
+global.packname = "𝗟𝗼𝘃𝗲 𝗶𝘀 𝗪𝗮𝗿"
+global.author = "𝗟𝗼𝗴𝗮𝗻 𝗗𝗶𝗲𝘂𝗻𝗲𝗱𝗼𝗿𝘁"
+global.creator = "237670507356@s.whatsapp.net"
+global.prefa = ['!','.','#','&',' ’]
 global.sessionName = 'session'
 global.hituet = 0
 
